@@ -1,0 +1,13 @@
+{
+    "changeNameMessage": "¿Quieres cambiar el nombre de los archivos?",
+    "yes": "Sí",
+    "no": "No",
+    "folderPathMessage": "Por favor, proporciona la ruta de la carpeta cuyos archivos deseas renombrar:",
+    "newNameMessage": "Por favor, proporciona el nuevo nombre que deseas para los archivos:",
+    "renameSuccess": "Se cambió el nombre de {{oldName}} a {{newName}}",
+    "renameError": "Error al cambiar el nombre de {{fileName}}: {{error}}",
+    "allRenamedSuccess": "Todos los archivos se han renombrado con éxito.",
+    "renameErrorGeneral": "Hubo un problema al intentar renombrar los archivos. Detalles del error: {{error}}",
+    "noChanges": "No se realizarán cambios."
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "changeNameMessage": "ファイル名を変更しますか？",
+    "yes": "はい",
+    "no": "いいえ",
+    "folderPathMessage": "ファイル名を変更したいフォルダのパスを指定してください：",
+    "newNameMessage": "ファイル名を変更したい新しい名前を指定してください：",
+    "renameSuccess": "{{oldName}} の名前を {{newName}} に変更しました。",
+    "renameError": "{{fileName}} の名前を変更する際にエラーが発生しました：{{error}}",
+    "allRenamedSuccess": "すべてのファイルが正常に名前が変更されました。",
+    "renameErrorGeneral": "ファイルの名前を変更しようとする際に問題が発生しました。エラーの詳細：{{error}}",
+    "noChanges": "変更は行われません。"
+  }
+  

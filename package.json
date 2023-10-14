@@ -1,0 +1,22 @@
+{
+  "name": "changename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "i18n": "^0.15.1",
+    "inquirer": "^9.2.11",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
